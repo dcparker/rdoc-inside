@@ -1,6 +1,6 @@
 = rdoc-inside
 
-Description goes here.
+Makes rdoc documentation for the currently-loaded code available while inside ruby.
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 dcparker. See LICENSE for details.
+Copyright (c) 2010 BehindLogic. See LICENSE for details.

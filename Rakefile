@@ -7,9 +7,9 @@ begin
     gem.name = "rdoc-inside"
     gem.summary = %Q{Access rdoc information from ruby.}
     gem.description = %Q{Makes rdoc documentation for the currently-loaded code available while inside ruby.}
-    gem.email = "dcparker@gmail.com"
+    gem.email = "gems@behindlogic.com"
     gem.homepage = "http://github.com/dcparker/rdoc-inside"
-    gem.authors = ["dcparker"]
+    gem.authors = ["BehindLogic"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
